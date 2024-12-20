@@ -1,0 +1,7 @@
+name: DieIfOnTheBlock
+version: '${version}'
+main: tororo1066.dieifontheblock.DieIfOnTheBlock
+api-version: '1.19'
+
+depend:
+  - NMSUtils

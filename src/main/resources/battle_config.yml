@@ -1,0 +1,13 @@
+block:
+  list:
+    - GRASS_BLOCK
+  share: true
+  change_time: 600
+  change_time_multiplier: 20
+border:
+  size: 30
+  speed: 0.02
+  speed_multiplier: 0.01
+  damage: 1.0
+heal:
+  speed: 0.004
